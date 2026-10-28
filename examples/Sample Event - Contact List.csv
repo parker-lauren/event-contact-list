@@ -1,0 +1,5 @@
+﻿First Name,Last name,Company name,Company domain,Company City,Company Country,Contact City,Contact Country,LinkedIn,Email,Phone number,Job title,Event status,Industry (mapped),Industry (value),Employees,Company LinkedIn,Company website
+Ava,Calder,Northwind Logistics,northwind-logistics.example,San Francisco,United States,Oakland,United States,https://www.linkedin.com/in/example-ava,ava.calder@northwind-logistics.example,14155550134,VP Finance,Attended,Logistics and Supply Chain,LOGISTICS_AND_SUPPLY_CHAIN,1000,,https://northwind-logistics.example
+Ben,Frost,Bluepeak Software,bluepeak.example,Dublin,Ireland,Dublin,Ireland,,ben@bluepeak.example,35315550199,Head of FP&A,Attended,Software Development,Software Development,200,,
+Chloe,Marsh,Lumen Analytics,lumen.example,,,London,United Kingdom,,chloe.marsh@lumen.example,,Financial Controller,No-show,IT Services and IT Consulting,IT Services and IT Consulting,500,,
+José,Núñez,Saffron Retail,saffron.example,Madrid,Spain,Madrid,Spain,,jose.nunez@saffron.example,,Chief Financial Officer,Attended,Retail,RETAIL,5000,,
