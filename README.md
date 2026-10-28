@@ -70,4 +70,4 @@ For the enrichment step, install the [Clay](https://clay.com) CLI and create the
 
 ---
 
-*Part of my [event ops toolkit](https://github.com/parker-lauren): [vet the event](https://github.com/parker-lauren/event-vetting) → clean the leads → [debrief honestly](https://github.com/parker-lauren/event-debrief). All names, companies and data here are made up.*
+*Part of my [event ops toolkit](https://github.com/parker-lauren): [run the program](https://github.com/parker-lauren/event-program-os) → [vet the event](https://github.com/parker-lauren/event-vetting) → [enrich the leads](https://github.com/parker-lauren/webinar-lead-enrichment) → **clean the list** → [debrief honestly](https://github.com/parker-lauren/event-debrief). All names, companies and data here are made up.*
